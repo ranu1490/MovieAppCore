@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\bin\Debug\netcoreapp3.1\MovieAppCore.DAL.deps.json
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\bin\Debug\netcoreapp3.1\MovieAppCore.DAL.runtimeconfig.json
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\bin\Debug\netcoreapp3.1\MovieAppCore.DAL.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\bin\Debug\netcoreapp3.1\MovieAppCore.DAL.dll
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\bin\Debug\netcoreapp3.1\MovieAppCore.DAL.pdb
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\bin\Debug\netcoreapp3.1\MovieAppCore.Entity.dll
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\bin\Debug\netcoreapp3.1\MovieAppCore.Entity.pdb
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\obj\Debug\netcoreapp3.1\MovieAppCore.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\obj\Debug\netcoreapp3.1\MovieAppCore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\obj\Debug\netcoreapp3.1\MovieAppCore.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\obj\Debug\netcoreapp3.1\MovieAppCore.DAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\obj\Debug\netcoreapp3.1\MovieAppCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\obj\Debug\netcoreapp3.1\MovieAppCore.DAL.csproj.CopyComplete
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\obj\Debug\netcoreapp3.1\MovieAppCore.DAL.dll
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\obj\Debug\netcoreapp3.1\MovieAppCore.DAL.pdb
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.DAL\obj\Debug\netcoreapp3.1\MovieAppCore.DAL.genruntimeconfig.cache

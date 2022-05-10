@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\bin\Debug\netcoreapp3.1\MovieAppCore.BAL.deps.json
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\bin\Debug\netcoreapp3.1\MovieAppCore.BAL.dll
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\bin\Debug\netcoreapp3.1\MovieAppCore.BAL.pdb
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\bin\Debug\netcoreapp3.1\MovieAppCore.DAL.dll
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\bin\Debug\netcoreapp3.1\MovieAppCore.Entity.dll
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\bin\Debug\netcoreapp3.1\MovieAppCore.DAL.pdb
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\bin\Debug\netcoreapp3.1\MovieAppCore.Entity.pdb
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\obj\Debug\netcoreapp3.1\MovieAppCore.BAL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\obj\Debug\netcoreapp3.1\MovieAppCore.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\obj\Debug\netcoreapp3.1\MovieAppCore.BAL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\obj\Debug\netcoreapp3.1\MovieAppCore.BAL.AssemblyInfo.cs
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\obj\Debug\netcoreapp3.1\MovieAppCore.BAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\obj\Debug\netcoreapp3.1\MovieAppCore.BAL.csproj.CopyComplete
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\obj\Debug\netcoreapp3.1\MovieAppCore.BAL.dll
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.BAL\obj\Debug\netcoreapp3.1\MovieAppCore.BAL.pdb

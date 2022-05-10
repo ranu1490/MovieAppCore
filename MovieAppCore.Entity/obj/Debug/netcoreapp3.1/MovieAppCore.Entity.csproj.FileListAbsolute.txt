@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\bin\Debug\netcoreapp3.1\MovieAppCore.Entity.deps.json
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\bin\Debug\netcoreapp3.1\MovieAppCore.Entity.dll
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\bin\Debug\netcoreapp3.1\MovieAppCore.Entity.pdb
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\obj\Debug\netcoreapp3.1\MovieAppCore.Entity.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\obj\Debug\netcoreapp3.1\MovieAppCore.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\obj\Debug\netcoreapp3.1\MovieAppCore.Entity.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\obj\Debug\netcoreapp3.1\MovieAppCore.Entity.AssemblyInfo.cs
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\obj\Debug\netcoreapp3.1\MovieAppCore.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\obj\Debug\netcoreapp3.1\MovieAppCore.Entity.dll
+C:\Users\HP\source\repos\MovieAppCore\MovieAppCore.Entity\obj\Debug\netcoreapp3.1\MovieAppCore.Entity.pdb
